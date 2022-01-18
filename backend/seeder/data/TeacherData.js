@@ -1,0 +1,136 @@
+
+let TeacherData = [
+    {
+        teacher_first_name: "Altaf",
+        teacher_last_name: "Hussain",
+        teacher_cnic: "4410477832795",
+        teacher_email: "altafabro@gmail.com",
+        teacher_qualification: "Phd",
+        teacher_university_name: "California Uni",
+        teacher_cgpa: "4.0",
+        teacher_phone_number: "03322658975",
+        teacher_domicile: "Hyd",
+        teacher_gender: "male",
+        teacher_password: "11111111"
+    },
+    {
+        teacher_first_name: "Kirshan",
+        teacher_last_name: "Kumar",
+        teacher_cnic: "4410411223456",
+        teacher_email: "kirshankumar@gmail.com",
+        teacher_qualification: "Phd",
+        teacher_university_name: "Switzerland Uni",
+        teacher_cgpa: "3.9",
+        teacher_phone_number: "03336767677",
+        teacher_domicile: "Larkana",
+        teacher_gender: "male",
+        teacher_password: "22222222"
+    },
+    {
+        teacher_first_name: "Inayat",
+        teacher_last_name: "ALi",
+        teacher_cnic: "4410409876543",
+        teacher_email: "inayat@gmail.com",
+        teacher_qualification: "MS",
+        teacher_university_name: "MAJU",
+        teacher_cgpa: "3.9",
+        teacher_phone_number: "03121212312",
+        teacher_domicile: "Badin",
+        teacher_gender: "male",
+        teacher_password: "33333333"
+    },
+    {
+        teacher_first_name: "Hayat",
+        teacher_last_name: "Keerio",
+        teacher_cnic: "4410467890543",
+        teacher_email: "hayat@gmail.com",
+        teacher_qualification: "Phd",
+        teacher_university_name: "IIT Kgp",
+        teacher_cgpa: "4.0",
+        teacher_phone_number: "03464646456",
+        teacher_domicile: "Badin",
+        teacher_gender: "male",
+        teacher_password: "44444444"
+    },
+    {
+        teacher_first_name: "Atia",
+        teacher_last_name: "Bano",
+        teacher_cnic: "4410400000001",
+        teacher_email: "atiabano@gmail.com",
+        teacher_qualification: "Phd",
+        teacher_university_name: "Oxford",
+        teacher_cgpa: "3.9",
+        teacher_phone_number: "03033322123",
+        teacher_domicile: "Karachi",
+        teacher_gender: "female",
+        teacher_password: "55555555"
+    },
+    {
+        teacher_first_name: "Fouzia",
+        teacher_last_name: "Talpur",
+        teacher_cnic: "4410422222223",
+        teacher_email: "fouziatalpur@gmail.com",
+        teacher_qualification: "Phd",
+        teacher_university_name: "Korea Uni",
+        teacher_cgpa: "4.0",
+        teacher_phone_number: "03311122333",
+        teacher_domicile: "TMK",
+        teacher_gender: "female",
+        teacher_password: "66666666"
+    },
+    {
+        teacher_first_name: "Irfan",
+        teacher_last_name: "Ali",
+        teacher_cnic: "4410444554444",
+        teacher_email: "irfanali@gmail.com",
+        teacher_qualification: "Phd",
+        teacher_university_name: "Fast Pak",
+        teacher_cgpa: "3.9",
+        teacher_phone_number: "03356677878",
+        teacher_domicile: "karachi",
+        teacher_gender: "male",
+        teacher_password: "77777777"
+    },
+    {
+        teacher_first_name: "Sanaullah",
+        teacher_last_name: "Jamali",
+        teacher_cnic: "4410466666666",
+        teacher_email: "jamali@gmail.com",
+        teacher_qualification: "Btech",
+        teacher_university_name: "IIT Kgp",
+        teacher_cgpa: "4.0",
+        teacher_phone_number: "03378787876",
+        teacher_domicile: "Dadu",
+        teacher_gender: "male",
+        teacher_password: "88888888"
+    },
+    {
+        teacher_first_name: "Ali",
+        teacher_last_name: "Ahmed",
+        teacher_cnic: "4410488888880",
+        teacher_email: "ahmed@gmail.com",
+        teacher_qualification: "Btech",
+        teacher_university_name: "CS Kgp",
+        teacher_cgpa: "3.8",
+        teacher_phone_number: "03145566789",
+        teacher_domicile: "Kpk",
+        teacher_gender: "male",
+        teacher_password: "99999999"
+    },
+    {
+        teacher_first_name: "Aisha",
+        teacher_last_name: "Imran",
+        teacher_cnic: "4410467676767",
+        teacher_email: "aisha@gmail.com",
+        teacher_qualification: "Btech",
+        teacher_university_name: "Oxford",
+        teacher_cgpa: "3.3",
+        teacher_phone_number: "03199090909",
+        teacher_domicile: "Badin",
+        teacher_gender: "female",
+        teacher_password: "00000000"
+    },
+];
+
+
+export default TeacherData;
